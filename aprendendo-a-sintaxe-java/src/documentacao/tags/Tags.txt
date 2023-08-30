@@ -1,0 +1,11 @@
+@autor: Autor / Criador
+
+@version: Versão do recurso disponibilizado
+
+@since: Versão / Data de início da disponibilização do recurso
+
+@param: Descrição dos parâmetros dos métodos criados
+
+@return: Definição do tipo de retorno de um método
+
+@throws: Se o método lança alguma exceção
