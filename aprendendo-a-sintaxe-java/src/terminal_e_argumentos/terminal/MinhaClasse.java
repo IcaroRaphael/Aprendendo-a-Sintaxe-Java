@@ -1,4 +1,4 @@
-package terminal_e_argumentos;
+package terminal_e_argumentos.terminal;
 
 public class MinhaClasse {
     public static void main(String[] args) {
